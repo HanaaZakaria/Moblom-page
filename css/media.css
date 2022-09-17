@@ -1,0 +1,247 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {  
+    .logo-img{
+       
+        width: 5em;
+    }
+    .toggl{
+        font-size: .8rem;
+    }
+    .tittle-head {
+        font-size: .7rem;
+    }
+    .buttn-1{
+      font-size: .6rem;
+    }
+    .buttn-2{
+        font-size: .6rem;
+      }
+    .home .h1{
+        font-size: 1rem;       
+        }
+        .buttn-text{
+            font-size: .6rem;
+        }
+        .main .card-title {
+            font-size: .9rem;
+        }
+        
+        .main .h1{
+          
+            font-size: 1.2rem;
+        }
+        .main .p-center{
+              font-size: .8rem;
+          }
+          .icon{
+            font-size: 1rem;
+        }
+        .box-a{
+            margin-top:  1em;
+        }
+        .images{
+            margin-left: .5em;
+        }
+        .main-image h1 {
+            font-size: .9rem;
+        }
+        .text-p{
+            font-size: .7rem; 
+        }
+             .main .card-text {
+                font-size: .7rem;
+            }
+           .main a {
+                font-size: .8rem;
+            }
+            .main-image a {
+               
+                font-size: .7rem;
+            }
+            .buttn-1{
+                font-size: .6rem;
+              }
+            .tittle-box {
+              margin: 3.5em;
+            }
+            .boxs{
+                margin-top: 2em;
+            }
+            .wapper .p-center {
+                font-size: .8rem;
+                width: 100%;
+            }
+            .text-card {
+                font-size: 1.3rem;
+            }
+            .Course  p{
+                font-size: .6rem;
+            }
+            .imgbx2 {
+                width: 60px;
+                height: 60px;
+            }
+            .tittle-box .card-title {
+                font-size: .7rem;
+                margin-top: 0.7em;
+            }
+            .tittle-box .head {
+                border-bottom: 0.1em solid #5D75EC;
+            }
+
+            .bttn-a {
+                font-size: .6rem;
+            }
+            .Course .card-text {
+                font-size: .7rem;
+            }
+            .Course .card-text sup {
+                font-size: .7rem;
+            }
+            .group .tittle {
+                font-size: .9rem;
+            }
+            .group a {
+                font-size: .7rem;
+                margin-top: 1em;
+            }
+            .text-group{
+                font-size: .5rem;
+            }
+            .card-texta {
+               width:100%; 
+                font-size: .7rem;
+            }
+            .services .text-card {
+                font-size: 1.3rem;
+            }
+            .services .card-text {
+                font-size: .7rem;
+                text-align: center;
+            }
+            .card-paragraph{
+                font-size: .7rem;
+            }
+            .services .card-title {
+                font-size: .6em;
+           
+            }
+            .icons{
+                font-size: 1rem;
+                }
+
+                .mean .text{
+                    font-size: .7rem;
+                }
+
+            .cards .card-group .card{
+                margin: 1em;
+            }
+            .card-title {
+                font-size: 1rem;
+            }
+            .cards .card-text:last-child {
+                font-size: .9rem;
+            }
+            .carousel p {
+                font-size: .6rem;
+            } 
+            .imge {
+                width: 60px;
+                height: 60px;
+            }
+            .carousel .card-title{
+                font-size: .5rem;
+            }
+            .carousel .title-carousel{
+                font-size: .9rem;
+            }
+            .carousel {
+                padding: 3em 0.6em;
+            }
+            .carousel .card{
+                margin-top: 1em;
+            }
+            .textx h1 {
+               
+                font-size: 1.2rem;
+            }
+            .pictur .img-thumbnail {
+                margin-top: 2em;
+            }
+            .date {
+                margin-top: 0.5em;
+            }
+           .date p {
+                font-size: .6rem;
+                margin-top: .2em;
+            }
+            .date span {
+                margin-top: 0em;
+            }
+            .boder-image p {
+                font-size: .6rem;
+            }
+            .blog-img {
+                height: 35px;
+                width: 35px;
+            }
+            .p-center2 {
+                font-size: .7rem;
+                width: 100%;
+            }
+            .title-send{
+                font-size: 1rem;
+                }   
+                .contact h1 {
+                    font-size: 1.6rem;
+                }  
+                .end-sentence p {
+                    font-size: .5rem;
+                }  
+                footer h5 {
+                    font-size: 1rem;
+                    margin-top: 1rem;
+                }     
+                .php {
+                    font-size: .9rem;
+                }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {  
+    .logo-img{
+       
+        width: 5em;
+    }
+    .toggl{
+        font-size: .8rem;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .main .h1 {
+        font-size: 2rem;
+    }
+    
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .main .h1 {
+        font-size: 2rem;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .logo-img{
+        margin-left: 6.3em;
+    }
+    .box-a{
+        margin-top:  .5em;
+    }
+}
